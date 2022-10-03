@@ -7,8 +7,8 @@ const data = {
             price:120,
             brand:'Nike',
             rating:4.5,
-            numReviews:10,
-            description: 'high quality product'
+            numReviews:4,
+            description:'high quality product'
         },
         {
             _id:'2',
@@ -56,7 +56,7 @@ const data = {
             image:'/images/p6.jpg',
             price:120,
             brand:'Nike',
-            rating:4,
+            rating:4.5,
             numReviews:10,
             description: 'high quality product'
         },
